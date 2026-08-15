@@ -1,20 +1,31 @@
 # AdventureWorks-Sales-Dashboard
-Ce projet consiste en la création d'un tableau de bord interactif de ventes en utilisant Power BI, basé sur les données de ventes d'Adventure Works. Le tableau de bord offre une vue d'ensemble complète des performances de vente, ainsi que des analyses approfondies des produits et des clients.
 
-# Contenu du projet
+This project consists of creating an interactive sales dashboard using Power BI, based on Adventure Works sales data. The dashboard provides a comprehensive overview of sales performance, along with in-depth analysis of products and customers.
 
-## Fichiers CSV : Ce projet utilise les fichiers CSV suivants :
+# Project Contents
 
- 1. AdventureWorks_Calendar.csv
- 2. AdventureWorks_Customers.csv
- 3. AdventureWorks_Product_Categories.csv
- 4. AdventureWorks_Product_Subcategories.csv
- 5. AdventureWorks_Products.csv
- 6. AdventureWorks_Returns.csv
- 7. AdventureWorks_Territories.csv
+## CSV Files
 
-## Fonctionnalités :
+This project uses the following CSV files:
 
-#### Page de Résumé : Vue d'ensemble des performances de vente, y compris les totaux par catégorie de produits et par sous-catégorie, les revenus mensuels, les commandes et les retours par mois, ainsi que les produits les plus vendus.
-#### Page de Détails Produit : Informations détaillées sur les produits, y compris les retours totaux et les profits ajustés par week-end, ainsi que les profits totaux par début de semaine.
-#### Page de Détails Client : Analyse détaillée des performances de vente par client.
+1. AdventureWorks_Calendar.csv
+2. AdventureWorks_Customers.csv
+3. AdventureWorks_Product_Categories.csv
+4. AdventureWorks_Product_Subcategories.csv
+5. AdventureWorks_Products.csv
+6. AdventureWorks_Returns.csv
+7. AdventureWorks_Territories.csv
+
+## Features
+
+#### Summary Page
+
+An overview of sales performance, including total sales by product category and subcategory, monthly revenue, orders and returns by month, as well as the best-selling products.
+
+#### Product Details Page
+
+Detailed product information, including total returns, adjusted profits by weekend, and total profits by start of the week.
+
+#### Customer Details Page
+
+A detailed analysis of sales performance by customer.
